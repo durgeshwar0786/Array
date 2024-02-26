@@ -7,7 +7,7 @@ object ArrayBufferDemo2 extends App {
   arrBuffer += 7
   arrBuffer += 3
   arrBuffer += 6
-  arrBuffer += 5
+  arrBuffer += 9
   var i = 0
   for (i <- arrBuffer) {
     println("before adding :" + i)
